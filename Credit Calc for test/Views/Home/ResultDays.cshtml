@@ -1,0 +1,45 @@
+﻿@model List<CalculatorDaysRow>
+
+@{
+    ViewData["Title"] = "Result";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Данные по кредиту</h1>
+    <table class="table"> 
+        <tr> 
+            <th>Номер платежа</th>
+            <th>Дата платежа</th>
+            <th>Сумма платежа</th>
+            <th>Основной долг</th>
+            <th>Проценты</th>
+            <th>Остаток долга</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+
+        <tr>
+            <td>@(item.payment_number)</td>
+            <td>@(item.payment_date)</td>
+            <td>@(item.day_payment)</td>
+            <td>@(item.payment_body)</td>
+            <td>@(item.payment_percent)</td>
+            <td>@(item.loan_balance)</td>
+
+            @*<td>@(item.annuity_coefficient)</td>
+            <td>@(item.loan_summ)</td>
+            <td>@(item.loan_rate)</td>
+            <td>@(item.loan_rate_days)</td>*@
+
+        </tr>
+        }
+        <tr class="table-end">
+            <td colspan="3">Общая сумма выплат</td>
+            <td colspan="3">Сумма переплат</td>
+        </tr>
+        <tr>
+            <td colspan="3">@(Model[0].total_payments)</td>
+            <td colspan="3">@(Model[0].total_percents)</td>
+        </tr>
+    </table>
+</div>

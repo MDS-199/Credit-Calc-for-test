@@ -1,0 +1,30 @@
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\bin\Debug\net6.0\appsettings.json
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\bin\Debug\net6.0\Credit Calc for test.staticwebassets.runtime.json
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\bin\Debug\net6.0\Credit Calc for test.exe
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\bin\Debug\net6.0\Credit Calc for test.deps.json
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\bin\Debug\net6.0\Credit Calc for test.runtimeconfig.json
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\bin\Debug\net6.0\Credit Calc for test.dll
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\bin\Debug\net6.0\Credit Calc for test.pdb
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\Credit Calc for test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\Credit Calc for test.AssemblyInfoInputs.cache
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\Credit Calc for test.AssemblyInfo.cs
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\Credit Calc for test.csproj.CoreCompileInputs.cache
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\Credit Calc for test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\Credit Calc for test.RazorAssemblyInfo.cache
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\Credit Calc for test.RazorAssemblyInfo.cs
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\scopedcss\bundle\Credit Calc for test.styles.css
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\scopedcss\projectbundle\Credit Calc for test.bundle.scp.css
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\Credit Calc for test.dll
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\refint\Credit Calc for test.dll
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\Credit Calc for test.pdb
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\Credit Calc for test.genruntimeconfig.cache
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\ref\Credit Calc for test.dll
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\staticwebassets\msbuild.Credit Calc for test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\staticwebassets\msbuild.build.Credit Calc for test.props
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Credit Calc for test.props
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Credit Calc for test.props
+C:\Users\ldasa\source\repos\Credit Calc for test\Credit Calc for test\obj\Debug\net6.0\staticwebassets.pack.json

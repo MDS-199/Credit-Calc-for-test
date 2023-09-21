@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<label class="switch">
+    <h3 class="TextCheckBox">Дополнительные параметры расчёта кредита</h3>
+    <input class="CheckboxMain" id="Form1Off" onchange="ClickCheckBox()" type="checkbox">
+    <span class="checkbox-google-switch"></span>
+</label>
+
+
+<div id="form1" class="form">
+    <form method="post" asp-controller="Home" asp-action="ResultMonths">
+        <div class="text-center">
+            <h1 class="display-4">Введите данные для расчёта кредита</h1>
+
+            <h3>Сумма займа</h3>
+            <p><input required id="loan_summ" name="loan_summ" type="number" min="1" /> </p>
+
+            <h3>Срок займа (в месяцах)</h3>
+            <p><input required id="loan_term" name="loan_term" type="number" min="1" /> </p>
+
+            <h3>Ставка (% в год)</h3>
+            <p><input required id="loan_rate" name="loan_rate" type="number" step="any" min="0.00000001" /> </p>
+
+            <input type="submit" value="Рассчитать"/>
+        </div>
+    </form>
+</div>
+
+<div id="form2" class="form hidden">
+    <form method="post" asp-controller="Home" asp-action="ResultDays">
+        <div class="text-center">
+            <h1 class="display-4">Введите данные для расчёта кредита</h1>
+
+            <h3>Сумма займа</h3>
+            <p><input required id="loan_summ" name="loan_summ" type="number" min="1" /> </p>
+
+            <h3>Срок займа (в днях)</h3>
+            <p><input required id="loan_term" name="loan_term" type="number" min="1" /> </p>
+
+            <h3>Ставка (% в день)</h3>
+            <p><input required id="loan_rate" name="loan_rate" type="text" min="0.00000001" /> </p>
+
+            <h3>Шаг платежа (в днях)</h3>
+            <p><input required id="payment_step" name="payment_step" type="number" min="1" /> </p>
+
+            <input type="submit" value="Рассчитать" />
+        </div>
+    </form>
+</div>
+
+
+<script src="/js/MainPage.js"></script>
